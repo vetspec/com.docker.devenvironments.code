@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Add or remove a vhost ex. myapp.local. This will modify /etc/hosts
+# Add or remove a vhost ex. wp-dev.local. This will modify /etc/hosts
 
 set -e
 

@@ -47,7 +47,7 @@ APP_NAME=wp-dev
 DOMAIN="wp-dev.local"
 DB_HOST=mysql
 DB_NAME=wp-dev
-DB_ROOT_PASSWORD=password
+DB_ROOT_PASSWORD=AnVa0704
 DB_TABLE_PREFIX=wp_
 
 ```
@@ -62,7 +62,7 @@ Use the following database settings:
 DB_HOST=mysql
 DB_NAME=wp-dev
 DB_USER=root
-DB_PASSWORD=password
+DB_PASSWORD=AnVa0704
 ```
 
 ### Create SSL cert
